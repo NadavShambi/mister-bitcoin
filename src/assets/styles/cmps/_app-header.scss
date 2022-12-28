@@ -1,0 +1,47 @@
+.main-header {
+    background-color: $clr1;
+}
+
+header {
+    align-items: center;
+    min-height: 100px;
+    position: relative;
+    .logo {
+        font-size: em(40px);
+        font-family: poppinsBlack;
+        letter-spacing: 0.5px;
+        background: linear-gradient(45deg, yellowgreen, orange, darken(yellow, 22%), yellowgreen);
+        background-clip: text;
+        text-shadow: 0 10px 10px $dark-03;
+        background-position: 0%;
+        background-size: 400%;
+        color: transparent;
+
+        animation: logo 18s linear infinite;
+    }
+    nav {
+        a {
+            color: yellowgreen;
+            height: 100px;
+            width: 100px;
+            display: grid;
+            place-content: center;
+            transition: 0.3s;
+            cursor: pointer;
+            &.active {
+                background-color: #eee5;
+                font-size: 1.3em;
+                color: lime;
+            }
+        }
+    }
+}
+
+@keyframes logo {
+    0% {
+        background-position: 0%;
+    }
+    100% {
+        background-position: 400%;
+    }
+}
