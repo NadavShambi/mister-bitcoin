@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac38e604.css",
-    "main.js": "/static/js/main.fd378918.js",
-    "static/js/787.887c022c.chunk.js": "/static/js/787.887c022c.chunk.js",
-    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/Poppins-Black.ttf": "/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
-    "static/media/bitcoin.png": "/static/media/bitcoin.e146d46fb598ae0d8f43.png",
-    "static/media/contact.png": "/static/media/contact.c57e6c213e22cf78e0d8.png",
-    "static/media/dollar.png": "/static/media/dollar.95c65182d86d0d47e1ed.png",
-    "index.html": "/index.html",
-    "main.ac38e604.css.map": "/static/css/main.ac38e604.css.map",
-    "main.fd378918.js.map": "/static/js/main.fd378918.js.map",
-    "787.887c022c.chunk.js.map": "/static/js/787.887c022c.chunk.js.map"
+    "main.css": "/mister-bitcoin/static/css/main.ad3a8331.css",
+    "main.js": "/mister-bitcoin/static/js/main.cc4de607.js",
+    "static/js/787.887c022c.chunk.js": "/mister-bitcoin/static/js/787.887c022c.chunk.js",
+    "static/media/Poppins-Regular.ttf": "/mister-bitcoin/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Black.ttf": "/mister-bitcoin/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "static/media/bitcoin.png": "/mister-bitcoin/static/media/bitcoin.e146d46fb598ae0d8f43.png",
+    "static/media/contact.png": "/mister-bitcoin/static/media/contact.c57e6c213e22cf78e0d8.png",
+    "static/media/dollar.png": "/mister-bitcoin/static/media/dollar.95c65182d86d0d47e1ed.png",
+    "index.html": "/mister-bitcoin/index.html",
+    "main.ad3a8331.css.map": "/mister-bitcoin/static/css/main.ad3a8331.css.map",
+    "main.cc4de607.js.map": "/mister-bitcoin/static/js/main.cc4de607.js.map",
+    "787.887c022c.chunk.js.map": "/mister-bitcoin/static/js/787.887c022c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac38e604.css",
-    "static/js/main.fd378918.js"
+    "static/css/main.ad3a8331.css",
+    "static/js/main.cc4de607.js"
   ]
 }
